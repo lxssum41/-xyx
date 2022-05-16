@@ -27,3 +27,5 @@ class Food{
 // console.log(food.getX(),food.getY())
 // food.change()
 
+export default Food
+
