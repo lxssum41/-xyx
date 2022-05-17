@@ -22,7 +22,8 @@
   border: 4px solid black;
   border-radius: 4px;
 }
-#container #box #snake {
+#container #box #snake > div {
+  position: absolute;
   width: 10px;
   height: 10px;
   background-color: #000;
